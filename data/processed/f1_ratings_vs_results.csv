@@ -1,0 +1,23 @@
+launch_rank,driver,team,overall,experience,racecraft,awareness,pace,position_2025,points_2025,wins_2025,round_reached_2025,constructor_2025,position_2026,points_2026,wins_2026,round_reached_2026,constructor_2026
+1,Max Verstappen,Red Bull Racing,95,87,96,85,96,2.0,421.0,8.0,24.0,Red Bull,7,76.0,0,9,Red Bull
+2,Lando Norris,McLaren,94,81,89,80,94,1.0,423.0,7.0,24.0,McLaren,5,97.0,0,9,McLaren
+3,George Russell,Mercedes,93,83,94,93,94,4.0,319.0,2.0,24.0,Mercedes,2,154.0,2,9,Mercedes
+4,Charles Leclerc,Ferrari,92,83,92,91,93,5.0,242.0,0.0,24.0,Ferrari,4,108.0,1,9,Ferrari
+5,Lewis Hamilton,Ferrari,91,98,93,91,89,6.0,156.0,0.0,24.0,Ferrari,3,147.0,1,9,Ferrari
+6,Oscar Piastri,McLaren,91,77,95,81,92,3.0,410.0,7.0,24.0,McLaren,6,82.0,0,9,McLaren
+7,Fernando Alonso,Aston Martin,90,99,90,81,87,10.0,56.0,0.0,24.0,Aston Martin,18,1.0,0,9,Aston Martin
+8,Carlos Sainz,Williams,86,88,88,80,86,9.0,64.0,0.0,24.0,Williams,15,6.0,0,9,Williams
+9,Alexander Albon,Williams,85,84,87,77,85,8.0,73.0,0.0,24.0,Williams,16,5.0,0,9,Williams
+10,Sergio Perez,Cadillac,85,92,83,81,85,,,,,,21,0.0,0,9,Cadillac F1 Team
+11,Nico Hulkenberg,Audi,85,88,85,85,85,11.0,51.0,0.0,24.0,Sauber,19,0.0,0,9,Audi
+12,Pierre Gasly,Alpine,84,83,83,78,85,18.0,22.0,0.0,24.0,Alpine F1 Team,9,42.0,0,9,Alpine F1 Team
+13,Valtteri Bottas,Cadillac,84,89,75,95,87,,,,,,20,0.0,0,9,Cadillac F1 Team
+14,Esteban Ocon,Haas,84,83,85,84,84,15.0,38.0,0.0,24.0,Haas F1 Team,17,3.0,0,9,Haas F1 Team
+15,Kimi Antonelli,Mercedes,83,70,83,75,85,7.0,150.0,0.0,24.0,Mercedes,1,179.0,5,9,Mercedes
+16,Isack Hadjar,Racing Bulls,83,71,81,82,85,12.0,51.0,0.0,24.0,RB F1 Team,8,52.0,0,9,Red Bull
+17,Oliver Bearman,Haas,83,72,88,70,83,13.0,41.0,0.0,24.0,Haas F1 Team,12,18.0,0,9,Haas F1 Team
+18,Gabriel Bortoleto,Audi,80,69,81,77,81,19.0,19.0,0.0,24.0,Sauber,14,6.0,0,9,Audi
+19,Liam Lawson,Racing Bulls,79,73,79,71,81,14.0,38.0,0.0,24.0,Red Bull,10,39.0,0,9,RB F1 Team
+20,Lance Stroll,Aston Martin,77,84,77,73,77,16.0,33.0,0.0,24.0,Aston Martin,22,0.0,0,9,Aston Martin
+21,Franco Colapinto,Alpine,73,69,71,74,75,20.0,0.0,0.0,24.0,Alpine F1 Team,13,18.0,0,9,Alpine F1 Team
+22,Arvid Lindblad,Racing Bulls,68,32,70,60,72,,,,,,11,20.0,0,9,RB F1 Team
